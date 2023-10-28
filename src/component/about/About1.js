@@ -7,8 +7,8 @@ function About() {
   return (
     <>
         <section id="about" class="about mt-5">
-            <div class="container-fluid">
-                <h2 class="h1-responsive font-weight-bold text-center my-2">About</h2>
+            <div class="container-fluid container">
+                <h2 class="h1-responsive font-weight-bold text-center my-2 ">About</h2>
                 
                 <p class="text-center w-responsive mx-auto mb-1">Do you have any questions? Please do not hesitate to
                     contact us directly. Our team will come back to you within

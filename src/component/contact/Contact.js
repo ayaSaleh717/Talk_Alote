@@ -6,7 +6,7 @@ function Contact() {
   return (
     <>
     <section id='contact'>
-            <div class="container mb-5">
+            <div class="container mb-5 ">
                 <section class="mb-4">
 
                     <h2 class="h1-responsive font-weight-bold text-center my-4">Contact us</h2>
@@ -31,7 +31,7 @@ function Contact() {
 
                                     <div class="col-md-6">
                                         <div class="md-form mb-0">
-                                        <label for="email" class="">Your email</label>
+                                        <label for="email" class="form_lable">Your email</label>
                                             <input type="text" id="email" name="email" class="form-control" />
                                             
                                         </div>

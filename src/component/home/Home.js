@@ -4,7 +4,7 @@ import Change_Txt from '../changeing_text/Change_Txt'
 
 function Home() {
   return (
-    <>
+    <div className='container'>
         <div id="carouselExampleCaptions" class="carousel slide mb-3" data-bs-ride="carousel">
         {/* <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
@@ -59,7 +59,7 @@ function Home() {
 
 
 
-    </>
+    </div>
   )
 }
 

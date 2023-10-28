@@ -8,7 +8,7 @@ function Footer() {
          <footer class="text-center text-lg-start bg-primary py-3 text-white" id='footer'>
           
 
-          <section class="">
+          <section class=" container">
               <div class="container text-center text-md-start mt-5">
                   <div class="row mt-3">
                       <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
