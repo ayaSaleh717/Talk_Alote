@@ -1,0 +1,31 @@
+.btn{
+    margin:  5% 10%;
+    border-radius: 15px;
+    position: relative;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 20px 15px;
+    border: 1px transparent;
+}
+
+.btn:hover{
+    animation: button-push 0.3s ease 0.5;
+    background-color: #bbb;
+ }
+ @keyframes button-push {
+   50%{
+       transform: scale(0.8);
+       
+   
+     }
+     100%{
+       transform: scale(11);
+
+       
+     }
+    };
+ 
+  .form_lable{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 20px 15px;
+    background-color: red;
+
+
+  }
