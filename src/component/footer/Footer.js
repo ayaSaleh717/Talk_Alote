@@ -8,7 +8,7 @@ function Footer() {
          <footer class="text-center text-lg-start bg-primary py-3 text-white" id='footer'>
           
 
-          <section class=" container">
+          <section class="container">
               <div class="container text-center text-md-start mt-5">
                   <div class="row mt-3">
                       <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
@@ -30,29 +30,53 @@ function Footer() {
                               Useful links
                           </h6>
                           <p>
-                              <a href="#!" class="text-reset">Pricing</a>
+                              <a href="#" class="text-reset">Home</a>
                           </p>
                           <p>
-                              <a href="#!" class="text-reset">Settings</a>
+                              <a href="#about" class="text-reset">About</a>
                           </p>
                           <p>
-                              <a href="#!" class="text-reset">Orders</a>
+                              <a href="#galary" class="text-reset">Gallary</a>
                           </p>
                           <p>
-                              <a href="#!" class="text-reset">Help</a>
+                              <a href="#contact" class="text-reset">Contact</a>
                           </p>
+                         
+                         
                       </div>
 
                       <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
                           <h6 class="text-uppercase fw-bold mb-4">
                               Contact
                           </h6>
-                          <p><i class="bi bi-location me-3"></i> Russia - Mosco</p>
                           <p>
-                              <i class="bi bi-envelope me-3"></i>
-                              daite.tone.english@gmail.com
+                          <a class="me-4 text-reset" href='https://www.google.com/maps?ll=55.582026,37.385524&z=13&t=m&hl=ar&gl=US&mapclient=embed&q=%D9%85%D9%88%D8%B3%D9%83%D9%88+%D8%B1%D9%88%D8%B3%D9%8A%D8%A7'>
+                          <i class="fa-solid fa-location-dot"></i> Russia - Mosco
+
+                          </a>
+                            </p>
+
+                          <p>
+                          <a href='mailto:daite.tone.english@gmail.com'  class="me-4 text-reset">
+                          <i class="bi bi-envelope me-3"></i>daite.tone.english@gmail.com
+
+                          </a>
                           </p>
-                          <p><i class="bi bi-phone me-3"></i>+7 8-960-271-99-73 </p>
+
+                          <p><a href='tel:+7 8-960-271-99-73' className='me-4 text-reset'>
+                          <i class="bi bi-phone me-3"></i>+7 8-960-271-99-73 </a></p>
+                          <p>
+                          <a href="https://vk.com/talkalot13" class="me-4 text-reset">
+                              <i class="fa-brands fa-vk"></i> vk.come
+                          </a>
+                            
+                          </p>
+                          <p>
+                          <a href="https://instagram.com/talkalot.ru?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" class="me-4 text-reset">
+                    <i class="bi bi-instagram"></i> Instagram
+                </a>
+                           </p>
+
                       </div>
                   </div>
               </div>

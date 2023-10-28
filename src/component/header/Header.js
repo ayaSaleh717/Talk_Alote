@@ -4,7 +4,7 @@ import './header.css'
 function Header() {
   return (
     <>
-         <header className='header container'>
+         <header className='header'>
          <section id="topbar" class="mb-2 mb-lg-0 mb-sm-0 d-none d-lg-flex align-items-center pt-2 pb-2 bg-primary text-white topbar-transparent">
         <div class="container">
           <div class="row">

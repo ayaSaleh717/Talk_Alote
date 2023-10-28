@@ -23,9 +23,9 @@
      }
     };
  
-  .form_lable{
+  ._form-control{
+    margin: 10px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 20px 15px;
-    background-color: red;
-
 
   }
+

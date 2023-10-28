@@ -22,9 +22,9 @@ function Contact() {
                                 <div class="row">
 
                                     <div class="col-md-6">
-                                        <div class="md-form mb-0">
+                                        <div class="md-form mb-0 ">
                                         <label for="name" class="">Your name</label>
-                                            <input type="text" id="name" name="name" class="form-control" />
+                                            <input type="text" id="name" name="name" class="form-control _form-control " />
                                             
                                         </div>
                                     </div>
