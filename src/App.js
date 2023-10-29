@@ -5,6 +5,7 @@ import Home from './component/home/Home';
 import Galary from './component/galary/Galary';
 import Contact from './component/contact/Contact';
 import Footer from './component/footer/Footer';
+import Feedback from './component/feedback/Feedback';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <main className='main'>
       <About />
          <Galary />
+         <Feedback />
          <Contact />
          <Footer />
       </main>
