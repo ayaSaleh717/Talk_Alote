@@ -2,7 +2,7 @@ import React from 'react'
 import './feed.css'
 function Feedback() {
   return (
-    <section  className='container  mb-5 feed' >
+    <section  className='container  mb-5 feed' id='feed' >
 <div className='mb-4 container'>
      <h2 class="h1-responsive font-weight-bold text-center my-4">Comments & Reviews</h2>
                 <p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Please do not hesitate to

@@ -39,6 +39,9 @@ function Footer() {
                               <a href="#galary" class="text-reset">Gallary</a>
                           </p>
                           <p>
+                              <a href="#feed" class="text-reset">Feedback</a>
+                          </p>
+                          <p>
                               <a href="#contact" class="text-reset">Contact</a>
                           </p>
                          

@@ -58,6 +58,9 @@ function Header() {
                         <li class="nav-item">
                             <a class="nav-link" href="#galary">Gallery</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#feed">Feedback</a>
+                        </li>
                        
                         <li class="nav-item">
                             <a class="nav-link" href="#contact">Contact us</a>
