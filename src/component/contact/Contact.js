@@ -28,6 +28,7 @@ function Contact() {
                                             
                                         </div>
                                     </div>
+                                    
 
                                     <div class="col-md-6">
                                         <div class="md-form mb-0">
@@ -37,6 +38,16 @@ function Contact() {
                                         </div>
                                     </div>
 
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="md-form mb-0">
+                                          <label for="subject" class="">Your number</label>
+                                            <input type="text" id="subject" name="subject" class="form-control" />
+                                          
+                                        </div>
+                                    </div>
                                 </div>
 
                                 <div class="row">
