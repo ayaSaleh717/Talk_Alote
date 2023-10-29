@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Talk_Alote/static/css/main.98ca8645.css",
+    "main.css": "/Talk_Alote/static/css/main.75e9e426.css",
     "main.js": "/Talk_Alote/static/js/main.e7f9615e.js",
     "static/media/111.png": "/Talk_Alote/static/media/111.da9c77e08d353811024b.png",
     "static/media/galary-1.jpg": "/Talk_Alote/static/media/galary-1.ca72806ae40a106c10dd.jpg",
@@ -8,11 +8,11 @@
     "static/media/galary-2.jpg": "/Talk_Alote/static/media/galary-2.70d3bfd2678e5bdadef5.jpg",
     "static/media/galary-4.jpg": "/Talk_Alote/static/media/galary-4.3a09feaaf470c0bd1eea.jpg",
     "index.html": "/Talk_Alote/index.html",
-    "main.98ca8645.css.map": "/Talk_Alote/static/css/main.98ca8645.css.map",
+    "main.75e9e426.css.map": "/Talk_Alote/static/css/main.75e9e426.css.map",
     "main.e7f9615e.js.map": "/Talk_Alote/static/js/main.e7f9615e.js.map"
   },
   "entrypoints": [
-    "static/css/main.98ca8645.css",
+    "static/css/main.75e9e426.css",
     "static/js/main.e7f9615e.js"
   ]
 }
