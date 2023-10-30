@@ -1,6 +1,7 @@
 import React from 'react'
 import './footer.css'
 import logo from './../Assest/111.png'
+import Visitor from '../visitor/Visitor'
 
 function Footer() {
   return (
@@ -21,6 +22,8 @@ function Footer() {
                               Here you can use rows and columns to organize your footer content. Lorem ipsum
                               dolor sit amet, consectetur adipisicing elit.
                           </p>
+
+                          <Visitor />
                       </div>
                     
                       
